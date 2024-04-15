@@ -1,5 +1,5 @@
 {
-  "name": "inrl@4.1.2",
+  "name": "John Ai bot",
   "description": "simple multi featured whatsapp bot",
   "keywords": ["whatsapp"],
   "success_url": "/",
@@ -22,12 +22,12 @@
     "WORKTYPE": {
       "description": "enter bot mode must be public/private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "John Ai;https://i.imgur.com/WW3qVz8.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -40,14 +40,14 @@
       "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
     },
     "STICKER_DATA": {
-      "description": "sticker data",
+      "description": "@colins",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "@colinsl"
     },
     "PERSONAL_MESSAGE": {
       "description": "personal greetings for first message ",
       "required": true,
-      "value": "this is a bot, owner is bussy with something"
+      "value": "Hello.this is a bot, owner is bussy with something"
     },
     "REJECT_CALL": {
       "description": "automatic reject call",
@@ -57,7 +57,7 @@
     "WARN": {
       "description": "warn count",
       "required": true,
-      "value": "4"
+      "value": "3"
     },
     "SUDO": {
       "description": "secounds owners of bot",
